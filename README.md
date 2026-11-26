@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Swetha Rangan! 👋
 
-<!--
-**swetharangan/swetharangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Engineering Student
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- Aspiring Software Developer.
+- Interested in Web Development and Software Engineering.
+- Passionate about learning new technologies.
+- Enjoy building practical projects and solving problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- Programming: Python, Java, C
+- Web Development: HTML, CSS, JavaScript
+- Database: SQL
+- Tools: Git, GitHub, VS Code
+
+## 🌱 Currently Learning
+- Full Stack Web Development
+- Data Structures and Algorithms
+- Git and GitHub
+- Software Development
+
+## 🚀 Goals
+- Build real-world projects.
+- Improve coding and problem-solving skills.
+- Gain internship experience.
+- Contribute to open-source projects.
+
+## 🔗 Connect With Me
+- LinkedIn: www.linkedin.com/in/swetharangan
+- GitHub: https://github.com/swetharangan
+
+⭐ Thanks for visiting my profile!
